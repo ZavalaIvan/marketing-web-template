@@ -1,0 +1,10 @@
+# robots.txt for IZ Design
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+Disallow: /privacy
+Disallow: /terms
+Disallow: /t&c
+
+Sitemap: https://izdesign.com/sitemap.xml
